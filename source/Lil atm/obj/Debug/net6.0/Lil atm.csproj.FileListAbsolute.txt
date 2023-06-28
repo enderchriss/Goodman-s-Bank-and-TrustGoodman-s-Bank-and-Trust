@@ -1,0 +1,15 @@
+C:\Users\wing zero\source\repos\Lil atm\Lil atm\bin\Debug\net6.0\Lil atm.exe
+C:\Users\wing zero\source\repos\Lil atm\Lil atm\bin\Debug\net6.0\Lil atm.deps.json
+C:\Users\wing zero\source\repos\Lil atm\Lil atm\bin\Debug\net6.0\Lil atm.runtimeconfig.json
+C:\Users\wing zero\source\repos\Lil atm\Lil atm\bin\Debug\net6.0\Lil atm.dll
+C:\Users\wing zero\source\repos\Lil atm\Lil atm\bin\Debug\net6.0\Lil atm.pdb
+C:\Users\wing zero\source\repos\Lil atm\Lil atm\obj\Debug\net6.0\Lil atm.csproj.AssemblyReference.cache
+C:\Users\wing zero\source\repos\Lil atm\Lil atm\obj\Debug\net6.0\Lil atm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wing zero\source\repos\Lil atm\Lil atm\obj\Debug\net6.0\Lil atm.AssemblyInfoInputs.cache
+C:\Users\wing zero\source\repos\Lil atm\Lil atm\obj\Debug\net6.0\Lil atm.AssemblyInfo.cs
+C:\Users\wing zero\source\repos\Lil atm\Lil atm\obj\Debug\net6.0\Lil atm.csproj.CoreCompileInputs.cache
+C:\Users\wing zero\source\repos\Lil atm\Lil atm\obj\Debug\net6.0\Lil atm.dll
+C:\Users\wing zero\source\repos\Lil atm\Lil atm\obj\Debug\net6.0\refint\Lil atm.dll
+C:\Users\wing zero\source\repos\Lil atm\Lil atm\obj\Debug\net6.0\Lil atm.pdb
+C:\Users\wing zero\source\repos\Lil atm\Lil atm\obj\Debug\net6.0\Lil atm.genruntimeconfig.cache
+C:\Users\wing zero\source\repos\Lil atm\Lil atm\obj\Debug\net6.0\ref\Lil atm.dll

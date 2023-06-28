@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lil atm", "Lil atm\Lil atm.csproj", "{2225D0CA-5C1A-4F26-917F-A82AB19016CC}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Mr.Goodman's Bank and Trust", "Mr.Goodman's Bank and Trust\Mr.Goodman's Bank and Trust.vdproj", "{0EFE94C3-D388-44F2-9724-6CBBD3A8F38E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2225D0CA-5C1A-4F26-917F-A82AB19016CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2225D0CA-5C1A-4F26-917F-A82AB19016CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2225D0CA-5C1A-4F26-917F-A82AB19016CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2225D0CA-5C1A-4F26-917F-A82AB19016CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EFE94C3-D388-44F2-9724-6CBBD3A8F38E}.Debug|Any CPU.ActiveCfg = Debug
+		{0EFE94C3-D388-44F2-9724-6CBBD3A8F38E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {472C4D98-0779-4EBF-9D3F-388500B3D669}
+	EndGlobalSection
+EndGlobal
